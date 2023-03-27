@@ -58,7 +58,7 @@ with open("file5.txt", 'r') as f:
             if(i==word):
                 count=count+1
 print("Заданных слов",word, ":", count)
-
+#
 #
 # 6
 
